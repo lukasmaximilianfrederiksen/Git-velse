@@ -1,2 +1,5 @@
 *.mp4
 /video
+*.psd
+
+# alt hvad der ikke skal pushes skal komme i en mappe :))))
